@@ -61,3 +61,13 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 
   --customFont: 'gg sans', sans-serif;
 }
+#app-mount .unread-36eUEm {
+       height: 8px;
+       width: 4px;
+       border-radius: 0 4px 4px 0;
+       left: 0;
+       background-color: #fff;
+}
+#app-mount .unread-36eUEm:after {
+       content: none !important;
+}
