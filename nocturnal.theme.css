@@ -32,7 +32,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 */
 @import url("https://xcruxiex.github.io/themes/core/badges.css");
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
+@import url("https://raw.githubusercontent.com/xdCoolesding/shiggycord/main/Source/Addons/radialstatus.css"); /* Radial Status */
 :root {
   --backgroundColor01: #141522;
   --backgroundColor02: #0a0b13;
